@@ -1,4 +1,4 @@
-# Fibonacci-Sequence
+# Fibonacci Sequence
 The Fibonacci Sequence made in C++
 
 The program calculates the Fibonacci sequence up to a specified number or retrieves a specific Fibonacci number, while measuring the execution time.
