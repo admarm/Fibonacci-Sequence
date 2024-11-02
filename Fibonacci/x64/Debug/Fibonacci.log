@@ -1,0 +1,4 @@
+﻿  fib.cpp
+C:\downloads\ANDY\programming\Visual Studio Projects\Fibonacci\fib.cpp(71,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\downloads\ANDY\programming\Visual Studio Projects\Fibonacci\fib.cpp(89,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Fibonacci.vcxproj -> C:\downloads\ANDY\programming\Visual Studio Projects\Fibonacci\x64\Debug\Fibonacci.exe
