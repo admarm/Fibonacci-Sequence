@@ -6,6 +6,12 @@ The program calculates the Fibonacci sequence up to a specified number or retrie
 # Usage
 The program can be run through the executable (.exe) or by using a terminal with '**./fib**', with or without arguments.
 
+Valid arguments are:
+
+(1) The index of the number (Must be positive)
+
+(2) Way of execution (sequence/single)
+
 ![Fib Example](https://github.com/user-attachments/assets/acd4adf2-7a6e-44ca-9324-2f2f98b7166a)
 
 Another way of entering the arguments via the terminal is by entering the first one, hitting enter, and then entering the second one.
