@@ -13,4 +13,4 @@ Another way of entering the arguments via the terminal is by entering the first 
 ![image](https://github.com/user-attachments/assets/5790746c-9e2d-4477-9425-5c9dbb3e980c)
 
 # Note
-Large numbers may take a while to be calculated or to be displayed in a sequence.
+Large numbers and sequences may take a while to be calculated or displayed.
