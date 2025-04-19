@@ -10,7 +10,7 @@ using namespace std::literals::chrono_literals;
 void fib(int x, string ch) {
 
     if (x < 0) {
-        throw "The starting number must be a positive intiger.\n";
+        throw "The starting number must be a positive integer.\n";
     }
     
     auto start = chrono::high_resolution_clock::now(); // Starts the timer
